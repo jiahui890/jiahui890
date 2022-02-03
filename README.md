@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ **Fun fact:** 
 -->
 
-- 🔭 I’m currently working on various projects comprising of machine learning, analytics and tech
+- 🔭 I’m currently working on various projects comprising of statistics, analytics and machine learning
 - 💬 **Ask me about:** tech, music, food, anything!
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/jiahui-lim-450/)
 
